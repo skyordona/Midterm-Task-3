@@ -54,7 +54,7 @@
 ### Dashboard (see screenshot)
 - ![Image](https://github.com/user-attachments/assets/b32d13eb-ce56-4c9d-9413-abb502e32b64)
 
-- !![Image](https://github.com/user-attachments/assets/a775dd12-df58-4f11-a1d6-26fe5798b40c)
+- ![Image](https://github.com/user-attachments/assets/a775dd12-df58-4f11-a1d6-26fe5798b40c)
 
 
 ### Map (see screenshot)
